@@ -28,11 +28,11 @@ Using this plugin you can make changes on login screen of your WordPress site. I
 
 Note: Don't change "login-screen-manager" directory name
 
-#Screenshots
+# Screenshots
 
 ![Screenshot](screenshot-1.png?raw=true "A Login Screen")
-![Screenshot](screenshot-1.png?raw=true "Option Page")
-![Screenshot](screenshot-2.png?raw=true "Favicon")
+![Screenshot](screenshot-2.png?raw=true "Option Page")
+![Screenshot](screenshot-3.png?raw=true "Favicon")
 
 # Frequently Asked Questions
 
