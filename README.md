@@ -1,7 +1,6 @@
 # Login Screen Manager
 
-A WordPress Plugin to customize the login page: wp-login.php
-* Plugin Page: https://wordpress.org/plugins/login-screen-manager/
+A WordPress Plugin to customize the login page: wp-login.php. Plugin Page: https://wordpress.org/plugins/login-screen-manager/
 
 # Description
 
@@ -21,12 +20,21 @@ Using this plugin you can make changes on login screen of your WordPress site. I
 *	Add Custom CSS
 *	Use Shortcodes
 
+# Requirements
+
+* WordPress Version: 3.5 or higher
+* Tested upto: 5.2.2
+* 
 # Installation 
 1. Upload `login-screen-manager` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Then go to the Settings >> Login Screen page to make changes
 
 Note: Don't change "login-screen-manager" directory name
+
+# Author
+
+* **Nazmul Hossain Nihal** - [nazmulhossainnihal](https://github.com/nazmulhossainnihal)
 
 # Screenshots
 
