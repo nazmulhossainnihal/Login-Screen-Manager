@@ -1,7 +1,7 @@
 # Login Screen Manager
 
 A WordPress Plugin to customize the login page: wp-login.php
-*Plugin Page: https://wordpress.org/plugins/login-screen-manager/
+* Plugin Page: https://wordpress.org/plugins/login-screen-manager/
 
 # Description
 
